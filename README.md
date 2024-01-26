@@ -25,7 +25,7 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=victorocvh&show_icons=true&theme=blue-green" />
 </a>
 <a href="https://github.com/victorocvh/">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=victorocvh&layout=compact&langs_count=8&card_width=320&theme=blue-green" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=victorocvh&layout=compact&langs_count=8&theme=blue-green" />
 </a>
 
 #### Top Repositories
