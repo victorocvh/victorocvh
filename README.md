@@ -1,5 +1,5 @@
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
-
+<p align="center"><a href="https://victorocvh.github.io"><img width="80%" alt="Hello, I'm Victor FullStack Software Engineer!" src="https://i.imgur.com/yzS8zGh_d.webp?maxwidth=760&fidelity=grand" /></a></p>
+https://i.imgur.com/yzS8zGh_d.webp?maxwidth=760&fidelity=grand
 <br />
 
 I'm a self-taught passionate FrontEnd developer from India 🇮🇳
