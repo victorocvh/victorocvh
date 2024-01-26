@@ -1,5 +1,5 @@
-<p align="center"><a href="https://victorocvh.github.io"><img width="80%" alt="Hello, I'm Victor FullStack Software Engineer!" src="https://i.imgur.com/waAgJ53.png" /></a></p>
-https://i.imgur.com/waAgJ53.png
+<p align="center"><a href="https://victorocvh.github.io"><img width="80%" alt="Hello, I'm Victor FullStack Software Engineer!" src="https://i.imgur.com/hwWB7ts_d.webp?maxwidth=760&fidelity=grand" /></a></p>
+
 <br />
 
 I'm a self-taught passionate FrontEnd developer from India 🇮🇳
