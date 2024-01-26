@@ -23,8 +23,13 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 
 ![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=victorocvh&show_icons=true&theme=blue-green)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorocvh&layout=compact)
-| <a href="https://github.com/victorocvh/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=victorocvh&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="VictorOCV's github stats" /></a> | <a href="https://github.com/victorocvh/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorocvh&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+
+<a href="https://github.com/victorocvh/">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=victorocv&show_icons=true&theme=blue-green" />
+</a>
+<a href="https://github.com/victorocvh/">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=victorocvh&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 #### Top Repositories
 
