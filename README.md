@@ -21,6 +21,7 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 <code><img height="20" alt="k8s" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/kubernetes.svg"></code>
 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=victorocvh)](https://github.com/victorocvh/github-readme-stats)
 | <a href="https://github.com/victorocvh/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=victorocvh&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="VictorOCV's github stats" /></a> | <a href="https://github.com/victorocvh/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorocvh&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
