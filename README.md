@@ -21,9 +21,6 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 <code><img height="20" alt="k8s" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/kubernetes.svg"></code>
 
 
-![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=victorocvh&show_icons=true&theme=blue-green)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorocvh&layout=compact)
-
 <a href="https://github.com/victorocvh/">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=victorocvh&show_icons=true&theme=blue-green" />
 </a>
