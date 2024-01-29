@@ -31,15 +31,18 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 #### Top Repositories
 
 
-<a href="https://github.com/victorocvh/django-lab">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=victorocvh&repo=django-lab&theme=blue-green" />
-</a>
-<a href="https://github.com/victorocvh/daemonset-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=victorocvh&repo=daemonset-app&theme=blue-green" />
-</a>
-<a href="https://github.com/victorocvh/daemonset-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=victorocvh&repo=rabbitmq-lab&theme=blue-green" />
-</a>
+<div style="display: flex; justify-content: space-between;">
+  <a href="https://github.com/victorocvh/django-lab">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=victorocvh&repo=django-lab&theme=blue-green" />
+  </a>
+  <a href="https://github.com/victorocvh/daemonset-app">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=victorocvh&repo=daemonset-app&theme=blue-green" />
+  </a>
+  <a href="https://github.com/victorocvh/rabbitmq-lab">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=victorocvh&repo=rabbitmq-lab&theme=blue-green" />
+  </a>
+</div>
+
 
 <br />
 <br />
