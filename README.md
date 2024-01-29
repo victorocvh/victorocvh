@@ -1,4 +1,4 @@
-<h1 color="green">Hi!! I'm Victor Carvalho</h1>
+<h1 style="color: green;">Hi!! I'm Victor Carvalho</h1>
 
 <br />
 
