@@ -31,15 +31,15 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 #### Top Repositories
 
 
-<table>
-  <tr><td>
+<table width="100%">
+  <tr><td valign="top" width="33%">
     <a href="https://github.com/victorocvh/django-lab">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=victorocvh&repo=django-lab&theme=blue-green" />
   </a>
   </td></tr>
 
   <tr>
-    <td>
+    <td valign="top" width="33%">
    <a href="https://github.com/victorocvh/daemonset-app">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=victorocvh&repo=daemonset-app&theme=blue-green" />
   </a>     
@@ -47,7 +47,7 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
   </tr>
 
   <tr>
-    <td>
+    <td valign="top" width="33%">
         <a href="https://github.com/victorocvh/rabbitmq-lab">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=victorocvh&repo=rabbitmq-lab&theme=blue-green" />
   </a>
