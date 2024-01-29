@@ -32,10 +32,10 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 
 
 <a href="https://github.com/victorocvh/django-lab">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=victorocv&repo=django-lab&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=victorocvh&repo=django-lab&theme=buefy" />
 </a>
 <a href="https://github.com/victorocvh/daemonset-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=victorocv&repo=daemonset-app&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=victorocvh&repo=daemonset-app&theme=buefy" />
 </a>
 
 <br />
