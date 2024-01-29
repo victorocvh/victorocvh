@@ -33,7 +33,7 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 
 <table style="border: 0" width="100%">
   <tr>
-    <td><a href="https://github.com/victorocvh/rabbitmq-lab">
+    <td style="border:0;"><a href="https://github.com/victorocvh/rabbitmq-lab">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=victorocvh&repo=rabbitmq-lab&theme=blue-green" />
       </a></td>
     <td> <a href="https://github.com/victorocvh/daemonset-app">
